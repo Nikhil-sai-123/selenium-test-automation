@@ -4,3 +4,5 @@ target/
 .settings/
 *.log
 config.properties
+test-ouput/
+test-output/
